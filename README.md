@@ -1,17 +1,15 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Josue Pacheco, ingeniero en sistemas con experiencia desde el 2017. Me apasiona el desarrollo web y me especializo en JavaScript, TypeScript y Java.
+👋 Hi there! I'm Josue Pacheco, a systems engineer with experience since 2017. I'm passionate about web development, specializing in JavaScript, TypeScript, and Java.
 
-He trabajado en empresas como Kruger y Rumzer, donde he contribuido en proyectos significativos. Además, he desarrollado aplicaciones personales como Kanban App, CV App y Pomodoro App.
+I have worked at companies like Kruger and Rumzer, contributing to significant projects. I have also developed personal applications such as Kanban App, CV App, and Pomodoro App.
 
-Mi enfoque principal se encuentra en el desarrollo frontend, pero también tengo experiencia en el backend. Siempre busco proporcionar la mejor experiencia y calidad al usuario.
+While my primary focus is frontend development, I also have experience in backend. I always strive to provide the best user experience and quality.
 
-Mi motivación radica en crear sistemas que ayuden a las personas. En el futuro, me gustaría explorar proyectos relacionados con las finanzas, inteligencia artificial y blockchain.
+My motivation lies in creating systems that help people. In the future, I would like to explore projects related to finance, artificial intelligence, and blockchain.
 
-Además de mi trabajo, me gusta mantenerme actualizado y aprovechar mi tiempo libre para crear proyectos personales.
+Apart from work, I enjoy staying updated and using my free time to create personal projects.
 
-¡Estoy emocionado por colaborar en nuevos desafíos y contribuir al mundo del desarrollo web! 🚀"
-
-Recuerda que puedes personalizar y ajustar la bio según tus preferencias y el estilo que desees transmitir. ¡Buena suerte en tu búsqueda de trabajo como desarrollador web!
+I'm excited to collaborate on new challenges and contribute to the world of web development! 🚀"
 
 
 ## 🌐 Socials:
